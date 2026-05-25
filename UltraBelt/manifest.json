@@ -1,0 +1,31 @@
+{
+  "Version": "0.1.0",
+  "Title": "UltraBelt",
+  "Description": "Adds belt crossings in the form of buildings",
+  "Author": "T3rragon",
+  "SavedModVersionCompabilityRangeWithSelf": "<1.1.0",
+  "GameVersionSupportRange": "*",
+  "AffectsSaveGames": true,
+  "DisablesAchievements": true,
+  "Conflicts": [],
+  "Assemblies": [
+    "UltraBelt.dll"
+  ],
+  "Dependencies": [
+    {
+      "ModId": "steam:3542611357",
+      "ModTitle": "Shapez Shifter",
+      "Version": "1.0.*"
+    },
+    {
+      "ModId": "steam:3542712030",
+      "ModTitle": "MonoMod.RuntimeDetour",
+      "Version": "^25.2.3"
+    },
+    {
+      "ModId": "steam:3591335975",
+      "ModTitle": "AssimpNet",
+      "Version": "4.*.*"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "en-US":
+  {
+    "building-variant.ub-belt-bridge.title": "Belt Bridge",
+    "building-variant.ub-belt-bridge.description": "Crosses two <gl>straight</gl> belt paths",
+    "building-variant.ub-belt-weavein.title": "Belt Weave",
+    "building-variant.ub-belt-weavein.description": "Crosses two <gl>corner</gl> belt paths",
+    "building-variant.ub-belt-weaveout.title": "Belt Weave",
+    "building-variant.ub-belt-weaveout.description": "Crosses two <gl>corner</gl> belt paths"
+  }
+}
