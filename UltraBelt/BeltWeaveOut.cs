@@ -191,7 +191,7 @@ internal class BeltWeaveOutDrawData : IBeltWeaveOutDrawData
 {
     internal static BuildingDrawData CreateDrawData()
     {
-        var baseMeshPath = Main.Res.SubPath("UltraBelt.fbx");
+        var baseMeshPath = Main.Res.SubPath("FourSplit.fbx");
         Mesh baseMesh = FileMeshLoader.LoadSingleMeshFromFile(baseMeshPath);
         LOD6Mesh baseModLod = MeshLod.Create().AddLod0Mesh(baseMesh).BuildLod6Mesh();
 

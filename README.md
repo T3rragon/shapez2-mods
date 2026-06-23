@@ -1,8 +1,9 @@
 # T3rragon's Shapez 2 Mods
 
-> [!NOTE]
-> The current repository is in beta, and currently has 1 mod in progress.
-> It is not guaranteed to expand, but this repository is formatted for if, or when, it does.
+>[!WARNING]
+> This version of UltraBelt is now depreicated, and has moved to the [BetterBelts](https://github.com/noahadhikari/shapez2-mods-betterbelts) repository!
+> 
+> HUGE thanks to Addingcurry for the help with logic!
 
 ## Requirements
 

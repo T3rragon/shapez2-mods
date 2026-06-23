@@ -37,6 +37,10 @@
             <HintPath>$(SPZ2_PATH)\Game.Core.Map.Model.dll</HintPath>
             <Private>False</Private>
         </Reference>
+        <Reference Include="Game.Core.Map.Layout">
+            <HintPath>$(SPZ2_PATH)\Game.Core.Map.Layout.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
         <Reference Include="Game.Core.Simulation">
             <HintPath>$(SPZ2_PATH)\Game.Core.Simulation.dll</HintPath>
             <Private>False</Private>
